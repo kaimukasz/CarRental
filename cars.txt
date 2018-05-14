@@ -1,0 +1,14 @@
+Volvo:XC60:diesel:2500:15088:2015:0
+
+Audi:A3:petrol:1800:25000:2013:1
+
+Ford:Transit:diesel:2000:5049:2018:1
+
+Toyota:Avensis:diesel:2000:17003:2012:0
+
+Mercedes:Vito:diesel:2200:5750:2018:1
+
+Renault:Clio:petrol:1200:11600:2014:0
+
+Peugeot:Partner:petrol:1600:12809:2015:0
+
